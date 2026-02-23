@@ -1,0 +1,71 @@
+| | 
+-----
+ | | 
+-----
+ | | 
+Enter your move (0-8): 4
+ | | 
+-----
+ |X| 
+-----
+ | | 
+AI (O) is thinking...
+AI plays: 0
+O| | 
+-----
+ |X| 
+-----
+ | | 
+Enter your move (0-8): 1
+O|X| 
+-----
+ |X| 
+-----
+ | | 
+AI (O) is thinking...
+AI plays: 7
+O|X| 
+-----
+ |X| 
+-----
+ |O| 
+Enter your move (0-8): 3
+O|X| 
+-----
+X|X| 
+-----
+ |O| 
+AI (O) is thinking...
+AI plays: 5
+O|X| 
+-----
+X|X|O
+-----
+ |O| 
+Enter your move (0-8): 7
+Invalid move! Try again.
+O|X| 
+-----
+X|X|O
+-----
+ |O| 
+Enter your move (0-8): 6
+O|X| 
+-----
+X|X|O
+-----
+X|O| 
+AI (O) is thinking...
+AI plays: 2
+O|X|O
+-----
+X|X|O
+-----
+X|O| 
+Enter your move (0-8): 8
+O|X|O
+-----
+X|X|O
+-----
+X|O|X
+It's a draw!
